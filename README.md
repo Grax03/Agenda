@@ -36,6 +36,8 @@ I dati che l'utente deve inserire per potere utilizzare l'applicazione sono:
 - Crea_Appuntamento
 - Sposta_Appuntamento
 - Sposta7g_Appuntamento
+- Visualizza_Appuntamenti_Odierni
+- Evidenzia_Appuntamento_Corrente
 - Rimuovi_Appuntamento
 
 ## Autore
