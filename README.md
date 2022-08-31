@@ -2,7 +2,7 @@
 
 ![Agenda](https://user-images.githubusercontent.com/78277419/187724156-ab937cc0-0661-4194-8582-a59b1eabd7c5.png)
 
-Qui ho caricato solo i file più importanti. Puoi scaricare l'applicazione integrale dal file Agenda.zip
+Qui ho caricato solo i file più importanti. Puoi scaricare l'applicazione integrale dal file [Agenda.zip](https://github.com/Grax03/Agenda/blob/main/Agenda.zip)
 
 ## Problema
 Si vuole realizzare un'applicazione che gestisca i nostri appuntamenti. Ogni appuntamento è caratterizzato da: data, ora e descrizione.
