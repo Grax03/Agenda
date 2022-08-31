@@ -7,12 +7,12 @@ Qui ho caricato solo i file più importanti. Puoi scaricare l'applicazione integ
 ## Problema
 Si vuole realizzare un'applicazione che gestisca i nostri appuntamenti. Ogni appuntamento è caratterizzato da: data, ora e descrizione.
 Attraverso l'uso di un calendario, l'applicativo deve poter:
-- inserire un appuntamento
-- spostare un appuntamento
-- spostare tutti gli appuntamenti del giorno puntato dal calendario di una settimana
-- visualizzare gli appuntamenti del giorno
-- evidenziare l'appuntamento corrente
-- eliminare gli appuntamenti precedenti ad oggi
+- Inserire un appuntamento
+- Spostare un appuntamento
+- Spostare tutti gli appuntamenti del giorno puntato dal calendario di una settimana
+- Visualizzare gli appuntamenti del giorno
+- Evidenziare l'appuntamento corrente
+- Eliminare gli appuntamenti precedenti ad oggi
 
 ## Analisi
 
